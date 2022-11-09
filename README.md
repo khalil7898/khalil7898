@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @khalil7898 Zouari Khalil
-- 👀 I’m interested in Backend Engineering 
-- 🌱 I’m currently learning WebRTC
-- 💞️ I’m looking to collaborate on Deno
 - 📫 How to reach me khalilzouari7898@gmail.com
 
 <!---
